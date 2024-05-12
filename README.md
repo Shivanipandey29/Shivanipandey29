@@ -2,8 +2,7 @@
 [MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi I'm Shivani Pandey</h1>
 <h3 align="center">A passionate AI ML Enthusiast</h3>
-img align="right" alt="Coding" width="400" src="https://www.sciencenews.org/article/chatgpt-ai-artificial-intelligence-education-cheating-accuracy">
->
+<img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanipandey29&label=Profile%20views&color=0e75b6&style=flat" alt="shivanipandey29" /> </p>
 
